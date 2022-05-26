@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.idea/
+data/inputs/safegraph_open_census_data/
+config/
+catboost_info/
+data/inputs/safegraph_open_census_data/
+geckodriver.log
+!notebooks
+notebooks/*
+!notebooks/Review Scraper.ipynb
+data/outputs/reviews/
+data/outputs/cbg_restaurants/
+data/outputs/rest_attrs/
+data/outputs/compiled/review_files/
